@@ -1,5 +1,5 @@
 
-# 🧠 NLP-to-Image PDF Generation Pipeline
+# 🧠 Interactive story book generator for school children
 
 This project takes a text input (story or description), segments it into paragraphs, summarizes each, extracts keywords using a Large Language Model (LLM), generates images using Stable Diffusion based on those keywords, and finally builds a structured PDF combining images and text.
 
@@ -92,7 +92,7 @@ You must provide API keys to run the summarization and image generation:
    ```
 
 2. **Image Generation (Stability AI)**  
-   If GPU is available locally, place the SD model in model folder of stable-diffusion-webui
+   If GPU is available locally, place the trained SD model in model folder of stable-diffusion-webui
    for image generation .
 
    If GPU is not available locally, use the Stability AI API:
