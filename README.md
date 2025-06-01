@@ -68,8 +68,8 @@ They are afraid and try to run for their lives. The army arrives and saves them.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-repo/nlp-image-pdf-generator.git
-cd nlp-image-pdf-generator
+git clone https://github.com/karthikkharv/story-book.git
+cd story-book
 
 # Create virtual environment
 python -m venv venv
