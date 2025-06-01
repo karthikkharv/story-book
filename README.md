@@ -18,7 +18,7 @@ They are afraid and try to run for their lives. The army arrives and saves them.
 ## 📦 Output
 
 - 📄 ![image](output/sample.png) — Folder containing all generated images based on each paragraph sample.
-- 🖼️ ![image](output/output1.png) — A visually aligned PDF containing summarized paragraphs and generated images.
+- 🖼️ ![image](output/output1.pdf) — A visually aligned PDF containing summarized paragraphs and generated images.
 
 ---
 
