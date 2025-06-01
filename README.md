@@ -17,14 +17,14 @@ They are afraid and try to run for their lives. The army arrives and saves them.
 
 ## 📦 Output
 
-- 📄 `output/story_visualized.pdf` — A visually aligned PDF containing summarized paragraphs and generated images.
-- 🖼️ `output/sample.png/` — Folder containing all generated images based on each paragraph.
+- 📄 ![image](output/sample.png) — Folder containing all generated images based on each paragraph sample.
+- 🖼️ ![image](output/output1.png) — A visually aligned PDF containing summarized paragraphs and generated images.
 
 ---
 
 ## 🧱 Pipeline Architecture
 
-`output/story-book.png`
+![architecture design](output/story-book.png)
 
 1. **Input**  
    - User submits raw story text via Web UI or REST API.
